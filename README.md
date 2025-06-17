@@ -47,7 +47,7 @@ Aşağıda analiz sırasında alınan ekran görüntüsü yer almaktadır:
 ## 👨‍💻 Geliştirici
 
 - **Ad Soyad:** Emirhan Akdoğan  
-- **Öğrenci No:** 222 019 042  
+- **Öğrenci No:** 222019042  
 - **GitHub Kullanıcı Adı:** [Emirjdmhan](https://github.com/Emirjdmhan)  
 - **Proje Linki:** [yayın-avcı-projesi-S-zma](https://github.com/Emirjdmhan/yayin-avci-projesi-S-zma)
 
